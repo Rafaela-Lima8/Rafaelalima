@@ -1,5 +1,8 @@
-👋# Olá! Eu sou a Rafeala Lima
+#👋 Olá! Eu sou a Rafeala Lima!
 
 🎓 Estudante de Desenvolvimento de Sistemas
 
 💻 Focado em novos aprendizados
+
+📫 Contato : rafaeladesenvolvimentos@gmail.com.br
+
